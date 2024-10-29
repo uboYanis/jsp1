@@ -18,6 +18,6 @@
 ## Exo3 ( Annuaire )
 
 - Le fichier Annuaire.jsp
-- Les class Personne.java et 
+- Les class Personne.java et Adresse.java
  
 - Le lien de la requête > http://localhost:8080/jsp1/Annuaire.jsp 
